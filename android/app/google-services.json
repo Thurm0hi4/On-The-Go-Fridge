@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315394969209",
+    "firebase_url": "https://onthegofridge.firebaseio.com",
+    "project_id": "onthegofridge",
+    "storage_bucket": "onthegofridge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315394969209:android:13e687b88c574303738ea8",
+        "android_client_info": {
+          "package_name": "edu.uco.lthurm.onthegofridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315394969209-l5c8uqmmtvualv1ub1e65sulptdhc6ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBEKrmKCc4lhLtbM-yKNQWkSQDgpTQRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315394969209-l5c8uqmmtvualv1ub1e65sulptdhc6ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
