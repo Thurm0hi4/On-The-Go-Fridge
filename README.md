@@ -1,6 +1,6 @@
 # onthegofridge
 
-A new Flutter project.
+On the Go Fridge is a Dart/Flutter App designed to be used as a way to keep track of whats currently in your fridge  in your home. It uses Google's Firebase for login authentication and database management. It also allows users to search for recipes based on the search item by utilizing the Spoonacular API.
 
 ## Getting Started
 
